@@ -1,6 +1,6 @@
 Basic Project from my Computer Vision Course 
 
-**Features**
+**Features:**
 
 Face Detection: Detects faces using the haarcascade_frontalface_default.xml Haar cascade.
 Eye Detection: Identifies eyes within the detected face region and highlights them with rectangles.
